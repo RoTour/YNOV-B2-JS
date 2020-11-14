@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf3dadb2-7f44-44db-8e7c-067d8d1a18cc" name="Default Changelist" comment="TP2 entirely remade">
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TP2Remake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_3/Controllers/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TP_3/Controllers/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Cours/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP_Cours/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_Cours/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP_Cours/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k01DvFbRbXqqDo76VCcd6IoG7H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rothe\Documents\Cours\JS\TP2Remake\assets" />
+      <recent name="C:\Users\rothe\Documents\Cours\JS\TP2Remake\Controllers" />
+      <recent name="C:\Users\rothe\Documents\Cours\JS\TP2Remake\Views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rothe\Documents\Cours\JS\TP2Remake" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3dadb2-7f44-44db-8e7c-067d8d1a18cc" name="Default Changelist" comment="" />
+      <created>1604822579073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604822579073</updated>
+      <workItem from="1604822580139" duration="12822000" />
+    </task>
+    <task id="LOCAL-00001" summary="TP2 entirely remade">
+      <created>1604842643266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604842643266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP2 entirely remade" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP2 entirely remade" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="138" key="FileChooserDialogImpl" timestamp="1604822997263">
+      <screen x="105" y="0" width="1255" height="768" />
+    </state>
+    <state x="512" y="138" key="FileChooserDialogImpl/1465.0.1261.768/105.0.1255.768@105.0.1255.768" timestamp="1604822997263" />
+    <state x="233" y="28" key="SettingsEditor" timestamp="1604822839950">
+      <screen x="105" y="0" width="1255" height="768" />
+    </state>
+    <state x="233" y="28" key="SettingsEditor/1465.0.1261.768/105.0.1255.768@105.0.1255.768" timestamp="1604822839950" />
+    <state x="324" y="116" key="Vcs.Push.Dialog.v2" timestamp="1604842646157">
+      <screen x="105" y="0" width="1255" height="768" />
+    </state>
+    <state x="324" y="116" key="Vcs.Push.Dialog.v2/1465.0.1261.768/105.0.1255.768@105.0.1255.768" timestamp="1604842646157" />
+  </component>
+</project>

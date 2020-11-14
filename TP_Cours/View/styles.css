@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.siteTitle {
+    background-color: #ffa421;
+    padding: 5px;
+}
+
+ul {
+    margin: 1em 2em;
+}
+
+li {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+button {
+    padding: 0.5em 1em;
+}
+
+.agePopup{
+    padding-bottom: 1.5em;
+}
+
+form > * {
+    margin-bottom: 0.5em;
+}
+
+form, .menuButtons{
+    margin: 0.5em 3em;
+}
+
+.itemSelected {
+    background-color: aquamarine;
+}
+
+.hidden {
+    height: 0;
+    visibility: hidden;
+}
+button {
+    margin: 0.1em 1em;
+}
+
+.hasSigned {
+    background-color: greenyellow;
+}

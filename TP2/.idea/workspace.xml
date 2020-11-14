@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b183e35-6f1d-4a4d-a3f0-4f5d4599819a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/TP2Remake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/Model/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/Model/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/characters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2Remake/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TP_3/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jDztNbkZAqdTqL25oUo0M0ZYB2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP_Cours" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rothe\Documents\Cours\JS\TP2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b183e35-6f1d-4a4d-a3f0-4f5d4599819a" name="Default Changelist" comment="" />
+      <created>1603353663865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603353663865</updated>
+      <workItem from="1603353664964" duration="756000" />
+      <workItem from="1603354643233" duration="1890000" />
+      <workItem from="1603356797960" duration="3190000" />
+      <workItem from="1603366933254" duration="1201000" />
+      <workItem from="1603382889825" duration="3236000" />
+      <workItem from="1603429532673" duration="1823000" />
+      <workItem from="1603453629360" duration="60000" />
+      <workItem from="1604823000037" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603367479106">
+      <screen x="62" y="0" width="1298" height="768" />
+    </state>
+    <state x="165" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/1422.0.1304.768/62.0.1298.768@62.0.1298.768" timestamp="1603367479106" />
+    <state x="1883" y="125" key="FileChooserDialogImpl" timestamp="1604823588806">
+      <screen x="1465" y="0" width="1261" height="768" />
+    </state>
+    <state x="1854" y="125" key="FileChooserDialogImpl/1422.0.1304.768/62.0.1298.768@1422.0.1304.768" timestamp="1603436905398" />
+    <state x="492" y="125" key="FileChooserDialogImpl/1422.0.1304.768/62.0.1298.768@62.0.1298.768" timestamp="1603367523213" />
+    <state x="1883" y="125" key="FileChooserDialogImpl/1465.0.1261.768/105.0.1255.768@1465.0.1261.768" timestamp="1604823588806" />
+    <state x="494" y="125" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1603356536215" />
+    <state x="397" y="148" width="979" height="608" key="dock-window-1" timestamp="1603354459356">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="397" y="148" width="979" height="608" key="dock-window-1/62.0.1304.768@62.0.1304.768" timestamp="1603354459356" />
+    <state x="427" y="191" key="jetbrains.nodejs.interpreters-dialog" timestamp="1603367527625">
+      <screen x="62" y="0" width="1298" height="768" />
+    </state>
+    <state x="427" y="191" key="jetbrains.nodejs.interpreters-dialog/1422.0.1304.768/62.0.1298.768@62.0.1298.768" timestamp="1603367527625" />
+  </component>
+</project>

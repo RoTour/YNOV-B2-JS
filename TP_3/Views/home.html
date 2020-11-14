@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+          integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+</head>
+<body>
+
+<div class="container">
+    <h1>JS - B2 - TP n°3</h1>
+    <p class="" id="notice"></p>
+    <div class="row" style="display: flex; justify-content: space-between">
+        <h3> Matches List :</h3>
+        <a class="btn btn-success" id="addMatchButton" href="creatematch.html">Add Match</a>
+    </div>
+
+    <div class="row">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Home Team</th>
+                <th>Result</th>
+                <th>Visitor Team</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody id="matchesTableBody">
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row" style="margin-bottom: 10em">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item">
+                    <button class="page-link" aria-label="Previous" id="pagePrevious">
+                        <span aria-hidden="true">&laquo;</span>
+                    </button>
+                </li>
+                <li class="page-item"><button class="page-link" id="pageNumber" ></button></li>
+                <li class="page-item">
+                    <button class="page-link" aria-label="Next" id="pageNext">
+                        <span aria-hidden="true">&raquo;</span>
+                    </button>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+
+</div>
+
+
+<script src="../Controllers/index.js"></script>
+<script src="../Utils.js"></script>
+<script src="../Models/Match.js"></script>
+<script src="../Models/Services.js"></script>
+<script src="../Controllers/home.js"></script>
+</body>
+</html>

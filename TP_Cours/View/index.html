@@ -1,0 +1,62 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>JS-B2</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<header>
+    <h1 class="siteTitle">
+        <!--suppress HtmlDeprecatedTag -->
+        <marquee>Hello Hello Hello</marquee>
+    </h1>
+    <div class="menuButtons">
+        <button id="addStudent">Expand Add Student Form</button>
+        <button id="searchBar">Expand Search Bar</button>
+    </div>
+</header>
+
+<div id="addEditForm" style="display: flex; justify-content: space-evenly; align-items: stretch;" class="hidden">
+    <form style="display: flex; flex-direction: column; flex-grow: 1" id="formSearch">
+        <h2>Add Student:</h2>
+        <label for="firstnameInput">Firstname</label><input type="text" id="firstnameInput" name="firstnameInputtt">
+
+        <label for="lastnameInput">Lastname</label><input type="text" id="lastnameInput" name="lastnameInput">
+
+        <label for="birthdateInput">BirthDate</label><input type="date" id="birthdateInput" name="birthdateInput">
+
+        <div>
+            <button id="createCharacterButton" onclick="newCharacterCreated()">CREATE CHARACTER</button>
+            <button id="editCharacterButton" onclick="editCharacter()" disabled>EDIT SELECTED CHARACTER</button>
+        </div>
+    </form>
+</div>
+
+<div id="searchBarForm" class="hidden">
+    <form style="display: flex; flex-direction: column; flex-grow: 1" >
+        <h2>Search student</h2>
+        <label for="searchField">Firstname</label><input type="text" id="searchField" name="firstnameInput">
+        <div>
+            <button name="hola" id="search" disabled>Search</button>
+        </div>
+    </form>
+</div>
+
+<ul id="characterList">
+
+</ul>
+
+<script src="../Controller/Utils.js"></script>
+<script src="../Model/Character.js"></script>
+<script src="dynamicUi.js"></script>
+<script src="../Controller/Services.js"></script>
+<script src="../Controller/charactersController.js"></script>
+<script src="../Controller/buttons.js"></script>
+</body>
+</html>

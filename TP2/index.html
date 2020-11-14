@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>JS-B2</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<h1 class="siteTitle">
+    <marquee>Hello Hello Hello</marquee>
+</h1>
+
+<div style="display: flex; justify-content: space-evenly; align-items: stretch">
+    <form style="display: flex; flex-direction: column; flex-grow: 1">
+        <h2>Add Student:</h2>
+        <label for="firstnameInput">Firstname</label><input type="text" id="firstnameInput" name="firstnameInput">
+
+        <label for="lastnameInput">Lastname</label><input type="text" id="lastnameInput" name="lastnameInput">
+
+        <label for="birthdateInput">BirthDate</label><input type="date" id="birthdateInput" name="birthdateInput">
+
+        <div>
+            <button id="createStudentButton" onclick="insertNewCharacter()">CREATE CHARACTER</button>
+            <button id="editStudentButton" onclick="insertNewCharacter()" disabled>EDIT SELECTED CHARACTER</button>
+        </div>
+    </form>
+</div>
+
+<ul class="studentList">
+
+</ul>
+
+<script src="Student.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

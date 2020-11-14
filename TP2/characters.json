@@ -1,0 +1,24 @@
+{
+  "characters" : [
+    {
+      "firstname": "Robin",
+      "lastname": "TOURNE",
+      "birthdate": "2001-10-19"
+    },
+    {
+      "firstname": "Mikasa",
+      "lastname": "ACKERMAN",
+      "birthdate": "1999-01-10"
+    },
+    {
+      "firstname": "Armin",
+      "lastname": "ARLERT",
+      "birthdate": "2000-4-3"
+    },
+    {
+      "firstname": "Jean",
+      "lastname": "Kirstein",
+      "birthdate": "1995-8-2"
+    }
+  ]
+}

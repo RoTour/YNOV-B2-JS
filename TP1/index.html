@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>JS-B2</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<h1 class="siteTitle">
+    <marquee>Hello Hello Hello</marquee>
+</h1>
+
+<form style="display: flex; flex-direction: column">
+    <h2>Create your character</h2>
+    <label for="firstnameInput">Firstname</label><input type="text" id="firstnameInput">
+
+    <label for="lastnameInput">Lastname</label><input type="text" id="lastnameInput">
+
+    <label for="birthdayInput">Birthday</label><input type="date" id="birthdayInput">
+
+    <button id="validateForm" onclick="insertNewCharacter()">CREATE CHARACTER</button>
+</form>
+
+<ul class="characters">
+
+</ul>
+
+<script src="Character.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

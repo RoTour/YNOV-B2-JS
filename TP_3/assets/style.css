@@ -1,0 +1,14 @@
+td {
+    margin: 0 1em;
+}
+
+td:nth-child(3) , th:nth-child(3){
+    text-align: end;
+}
+td:nth-child(2), th:nth-child(2) {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 0.5em;
+}

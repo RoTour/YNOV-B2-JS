@@ -1,0 +1,28 @@
+{
+  "characters" : [
+    {
+      "firstname": "Robin",
+      "lastname": "TOURNE",
+      "birthDate": "2001-10-19",
+      "hasSigned" : false
+    },
+    {
+      "firstname": "Mikasa",
+      "lastname": "ACKERMAN",
+      "birthDate": "1999-01-10",
+      "hasSigned" : false
+    },
+    {
+      "firstname": "Armin",
+      "lastname": "ARLERT",
+      "birthDate": "2000-04-03",
+      "hasSigned" : false
+    },
+    {
+      "firstname": "Jean",
+      "lastname": "Kirstein",
+      "birthDate": "1995-08-02",
+      "hasSigned" : false
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+          integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+</head>
+<body>
+<div class="container">
+    <h1>JS - B2 - TP n°3</h1>
+    <p class="" id="notice"></p>
+
+    <h3> Editing Match : </h3>
+
+    <div class="col-6">
+        <form id="editForm">
+
+            <div class="form-group">
+                <label for="homeTeamField">Home Team : </label>
+                <input name="homeTeam" id="homeTeamField" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="homeTeamScore">Score : </label>
+                <input name="homeTeamScore" id="homeTeamScore" class="form-control">
+            </div>
+
+            <div class="form-group">
+                <label for="visitorTeamField">Visitor Team : </label>
+                <input name="visitorTeam" id="visitorTeamField" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="visitorTeamScore">Score : </label>
+                <input name="visitorTeamScore" id="visitorTeamScore" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="matchDate">Score : </label>
+                <input type="date" name="matchDate" id="matchDate" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary" id="submitButton">Submit</button>
+        </form>
+    </div>
+
+</div>
+
+
+
+<script src="../Controllers/index.js"></script>
+<script src="../Utils.js"></script>
+<script src="../Models/Match.js"></script>
+<script src="../Models/Services.js"></script>
+<script src="../Controllers/editmatch.js"></script>
+</body>
+</html>
