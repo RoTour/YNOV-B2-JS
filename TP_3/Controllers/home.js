@@ -26,7 +26,9 @@ async function loadMatches() {
 
 function clearList() {
     const parent = DOM.get("matchesTableBody");
-    while (parent.firstChild) { parent.firstChild.remove(); }
+    while (parent.firstChild) {
+        parent.firstChild.remove();
+    }
 }
 
 function populateList(matches) {
@@ -34,14 +36,24 @@ function populateList(matches) {
     const tableBody = DOM.get("matchesTableBody");
     matches.forEach(it => {
         const newRow = DOM.create("tr");
-        newRow.appendChild(setInnerText(DOM.create("td"), it.homeTeam));
+        if (it.score[0] > it.score[1]) {
+            newRow.appendChild(setClasses("font-weight-bold", setInnerText(DOM.create("td"), it.homeTeam)));
+        } else {
+            newRow.appendChild(setInnerText(DOM.create("td"), it.homeTeam));
+        }
         newRow.appendChild(setInnerText(DOM.create("td"), " [" + it.score[0] + "-" + it.score[1] + "] "));
-        newRow.appendChild(setInnerText(DOM.create("td"), it.visitorTeam));
+
+        if (it.score[0] < it.score[1]) {
+            newRow.appendChild(setClasses("font-weight-bold", setInnerText(DOM.create("td"), it.visitorTeam)));
+        } else {
+            newRow.appendChild(setInnerText(DOM.create("td"), it.visitorTeam));
+        }
+
         newRow.appendChild(
-                encapInTd(
-                    setParamToLink(createLink("Edit", "editmatch.html", "primary"), "id", it.id),
-                        createLink("Delete", `javascript: matchesService.deleteMatch("${it.id}")`, "danger")
-                )
+            encapInTd(
+                setParamToLink(createLink("Edit", "editmatch.html", "primary"), "id", it.id),
+                createLink("Delete", `javascript: matchesService.deleteMatch("${it.id}")`, "danger")
+            )
         );
         tableBody.appendChild(newRow);
     })
@@ -56,7 +68,6 @@ DOM.get("pageNext").addEventListener("click", () => {
     pageManager.pageIndex++;
     loadMatches();
 })
-
 
 
 loadMatches();

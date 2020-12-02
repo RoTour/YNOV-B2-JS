@@ -1,3 +1,8 @@
+function setClasses(classes, element){
+    element.className = classes
+    return element
+}
+
 function setInnerText(element, txt) {
     element.innerHTML = txt;
     return element;
@@ -36,3 +41,4 @@ function getUrlVars() {
     );
     return vars;
 }
+
